@@ -30,33 +30,5 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
   
-  [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
-  ##### I am currently aiming to reach ELO 1800 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
 
-  ```
-  # ♟︎ Chess.com Ratings Chart #
-  
-  Blitz Rating
- 1492.00  ┤                                                ╭╮
- 1486.19  ┤                                                ││╭╮╭╮    ╭╮
- 1480.38  ┤                                             ╭╮╭╯╰╯╰╯╰╮   ││
- 1474.56  ┤                                ╭╮  ╭╮       │╰╯      ╰╮╭─╯╰╮      ╭╮
- 1468.75  ┤                          ╭╮╭╮╭╮│╰─╮││      ╭╯         ││   ╰╮    ╭╯╰─╮
- 1462.94  ┤                          │╰╯╰╯╰╯  ╰╯╰╮ ╭╮  │          ╰╯    ╰╮   │   ╰╮   ╭╮
- 1457.12  ┤        ╭╮               ╭╯           ╰─╯╰╮╭╯                 ╰─╮╭╯    ╰╮╭╮││
- 1451.31  ┤       ╭╯╰╮ ╭╮          ╭╯                ╰╯                    ╰╯      ╰╯╰╯╰╮╭─╮
- 1445.50  ┤╭╮╭╮   │  ╰╮│╰╮ ╭╮  ╭╮  │                                                    ╰╯ ╰╮
- 1439.69  ┼╯╰╯╰─╮╭╯   ╰╯ ╰╮││ ╭╯╰╮╭╯                                                        ╰╮     ╭╮
- 1433.88  ┤     ╰╯        ╰╯╰╮│  ╰╯                                                          ╰╮╭╮╭╮│╰╮
- 1428.06  ┤                  ╰╯                                                               ╰╯╰╯╰╯ ╰╮
- 1422.25  ┤                                                                                           │
- 1416.44  ┤                                                                                           ╰╮╭╮
- 1410.62  ┤                                                                                            ╰╯╰╮╭╮╭
- 1404.81  ┤                                                                                               ╰╯╰╯
- 1399.00  ┤
 
-Chart last updated - Tue Jul  2 01:05:14 EDT 2024  
-  ```
