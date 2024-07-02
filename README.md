@@ -1,6 +1,6 @@
  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-<br>
+
 <br>
 <img alt="Coder GIF" height=350 width=500 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
