@@ -49,5 +49,6 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### :fire: My Stats :  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sumon-ray&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sumon-ray)](https://git.io/streak-stats)
 
