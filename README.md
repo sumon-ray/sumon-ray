@@ -56,8 +56,5 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ## Connect with me ☕ :
 
-<br>
-
- [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@Sumonray220020")](https://www.facebook.com/Sumonray220020) [![@Sumonray220020](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/sumon60/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/Sumon_Ray) [![@01763604565](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@01763604565")](tel:01763604565) [![sumonray146371@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@sumonray146371@gmail.com")](sumonray146371@gmail.com)
-
-<br>
+## 📞 Connect with Me
+<p align="left"> <a href="https://www.facebook.com/Sumonray220020" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook" title="Facebook" /> </a> <a href="https://www.linkedin.com/in/sumon60/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" /> </a> <a href="https://twitter.com/Sumon_Ray" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" alt="Twitter" title="Twitter" /> </a> <a href="tel:+8801763604565"> <img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="Phone" title="Call: +8801763604565" /> </a> <a href="mailto:sumonray146371@gmail.com"> <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email" title="Email: sumonray146371@gmail.com" /> </a> </p>
