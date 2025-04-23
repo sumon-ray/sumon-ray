@@ -54,7 +54,5 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 
 
-## Connect with me ☕ :
-
 ## 📞 Connect with Me
 <p align="left"> <a href="https://www.facebook.com/Sumonray220020" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook" title="Facebook" /> </a> <a href="https://www.linkedin.com/in/sumon60/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" /> </a> <a href="https://twitter.com/Sumon_Ray" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" alt="Twitter" title="Twitter" /> </a> <a href="tel:+8801763604565"> <img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="Phone" title="Call: +8801763604565" /> </a> <a href="mailto:sumonray146371@gmail.com"> <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email" title="Email: sumonray146371@gmail.com" /> </a> </p>
