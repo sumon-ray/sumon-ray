@@ -1,4 +1,30 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ 
+  
+<p align="left">
+  <a href="https://discord.gg/sumon_ray" target="_blank">
+    <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="40" alt="Discord"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sumon60/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/Sumonray220020/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="40" alt="Facebook"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sumon_ray/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40" alt="Instagram"/>
+  </a>
+</p>
+  
+  hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" height="60px"/>
+  </h1>
 
+  
+</div>
+
+---
   
 ## 🛠️ Tech Stack
 
