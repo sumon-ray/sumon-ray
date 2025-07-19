@@ -59,7 +59,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-
+---
 
 ## 📊 GitHub Stats
 
@@ -69,5 +69,10 @@
 
 ---
 
-## 📞 Connect with Me
-<p align="left"> <a href="https://www.facebook.com/Sumonray220020" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook" title="Facebook" /> </a> <a href="https://www.linkedin.com/in/sumon60/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" /> </a> <a href="https://twitter.com/Sumon_Ray" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" alt="Twitter" title="Twitter" /> </a> <a href="tel:+8801763604565"> <img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="Phone" title="Call: +8801763604565" /> </a> <a href="mailto:sumonray146371@gmail.com"> <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email" title="Email: sumonray146371@gmail.com" /> </a> </p>
+## 📬 Let's Connect!
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Sumonray220020)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumon60/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sumon_Ray)
+[![Phone](https://img.shields.io/badge/Call-+8801763604565-black?style=for-the-badge&logo=phone&logoColor=white)](tel:+8801763604565)
+[![Gmail](https://img.shields.io/badge/Email-sumonray146371@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumonray146371@gmail.com)
