@@ -32,44 +32,52 @@
 
 ## 🎯 About Me
 
-```typescript
-const sumonRay = {
-  title: "Full-Stack Developer",
-  location: "Tangail, Bangladesh 🇧🇩",
-  code: ["JavaScript", "TypeScript", "Python", "Java"],
-  askMeAbout: ["Web Development", "Full Stack", "API Design", "System Architecture"],
-  
-  currentlyLearning: {
-    cloud: ["AWS Solutions Architecture", "Docker & Kubernetes"],
-    ai: ["Machine Learning Integration", "LLM Applications"],
-    advanced: ["Microservices Architecture", "GraphQL"]
-  },
-  
-  technologies: {
-    frontEnd: {
-      frameworks: ["React", "Next.js", "Redux Toolkit"],
-      styling: ["Tailwind CSS", "Styled Components", "SCSS"]
-    },
-    backEnd: {
-      runtime: ["Node.js", "Express.js"],
-      databases: ["MongoDB", "PostgreSQL", "Redis"],
-      apis: ["RESTful APIs", "JWT Authentication"]
-    },
-    tools: ["Git", "VS Code", "Postman", "Figma", "Linux"]
-  },
-  
-  currentMission: "Building production-ready applications with clean architecture",
-  
-  enthusiasticAbout: [
-    "🚀 Performance optimization",
-    "🤖 AI-powered applications", 
-    "☁️ Cloud-native solutions",
-    "📱 Mobile-first design"
-  ],
-  
-  lifePhilosophy: "Code with purpose, learn with passion, build with impact! ✨"
-};
-```
+**Full-Stack Developer | Problem Solver | Tech Enthusiast**  
+📍 Tangail, Bangladesh 🇧🇩
+
+I'm a passionate full-stack developer who loves creating innovative web solutions and exploring cutting-edge technologies. With expertise in JavaScript, TypeScript, React, and Next.js, I specialize in building end-to-end web applications with clean, scalable architecture.
+
+### 🌱 Currently Learning & Exploring
+
+**☁️ Cloud Technologies**
+- AWS Solutions Architecture
+- Docker & Kubernetes containerization
+- Cloud-native application deployment
+
+**🤖 AI & Machine Learning**
+- Learning Python for Machine Learning applications
+- Exploring ML integration in full-stack web applications
+- Building intelligent features for modern web solutions
+
+**🏗️ Advanced Architecture**
+- Microservices architecture patterns
+- GraphQL API design & implementation
+- System scalability optimization
+
+### 🔥 What Drives My Passion
+
+- **🎯 End-to-End Development** - My ultimate goal is mastering the complete development lifecycle from concept to deployment
+- **⚡ Full-Stack Excellence** - Building seamless experiences from frontend React/Next.js to robust backend solutions
+- **🤖 AI-Enhanced Applications** - Integrating machine learning capabilities into full-stack applications
+- **🚀 Performance & Scalability** - Creating lightning-fast, scalable applications that grow with user needs
+- **📱 Modern User Experiences** - Crafting responsive, intuitive interfaces with cutting-edge technologies
+
+### 💡 Areas of Expertise
+
+Feel free to ask me about:
+- React & Next.js development best practices
+- TypeScript implementation in full-stack projects
+- End-to-end application architecture
+- RESTful API design & backend development
+- Modern JavaScript development workflow
+
+### 🎯 Current Mission
+
+My passion is to become a complete end-to-end developer who can handle every aspect of web application development. I'm focused on building production-ready full-stack applications while expanding my skillset with machine learning to create intelligent, modern web solutions that make a real impact.
+
+---
+
+**Life Philosophy:** *"Code with purpose, learn with passion, build with impact!"* ✨
 
 ---
 
