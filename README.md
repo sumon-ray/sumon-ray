@@ -4,7 +4,7 @@
   # Hi there, I'm Sumon Ray! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"/>
   
-  ### 🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast
+  ### 🚀 Full-Stack Developer | Tech Enthusiast
   
   <p align="center">
     <em>Passionate about creating innovative web solutions and exploring cutting-edge technologies</em>
@@ -62,14 +62,6 @@ I'm a passionate full-stack developer who loves creating innovative web solution
 - **🚀 Performance & Scalability** - Creating lightning-fast, scalable applications that grow with user needs
 - **📱 Modern User Experiences** - Crafting responsive, intuitive interfaces with cutting-edge technologies
 
-### 💡 Areas of Expertise
-
-Feel free to ask me about:
-- React & Next.js development best practices
-- TypeScript implementation in full-stack projects
-- End-to-end application architecture
-- RESTful API design & backend development
-- Modern JavaScript development workflow
 
 ### 🎯 Current Mission
 
