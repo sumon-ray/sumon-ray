@@ -34,22 +34,40 @@
 
 ```typescript
 const sumonRay = {
+  title: "Full-Stack Developer",
+  location: "Tangail, Bangladesh 🇧🇩",
   code: ["JavaScript", "TypeScript", "Python", "Java"],
-  askMeAbout: ["Web Development", "Full Stack", "API Design", "Tech Innovation"],
+  askMeAbout: ["Web Development", "Full Stack", "API Design", "System Architecture"],
+  
+  currentlyLearning: {
+    cloud: ["AWS Solutions Architecture", "Docker & Kubernetes"],
+    ai: ["Machine Learning Integration", "LLM Applications"],
+    advanced: ["Microservices Architecture", "GraphQL"]
+  },
+  
   technologies: {
     frontEnd: {
-      js: ["React", "Next.js", "Redux", "Vue"],
-      css: ["Tailwind", "Bootstrap", "Styled Components"]
+      frameworks: ["React", "Next.js", "Redux Toolkit"],
+      styling: ["Tailwind CSS", "Styled Components", "SCSS"]
     },
     backEnd: {
-      js: ["Node.js", "Express", "Nest.js"],
-      databases: ["MongoDB", "PostgreSQL", "MySQL"]
+      runtime: ["Node.js", "Express.js"],
+      databases: ["MongoDB", "PostgreSQL", "Redis"],
+      apis: ["RESTful APIs", "JWT Authentication"]
     },
-    devOps: ["AWS", "Docker", "Vercel", "Netlify"],
-    tools: ["Git", "Postman", "Figma", "VSCode"]
+    tools: ["Git", "VS Code", "Postman", "Figma", "Linux"]
   },
-  currentFocus: "Building scalable web applications with modern tech stack",
-  funFact: "I debug with console.log and I'm not ashamed of it! 😄"
+  
+  currentMission: "Building production-ready applications with clean architecture",
+  
+  enthusiasticAbout: [
+    "🚀 Performance optimization",
+    "🤖 AI-powered applications", 
+    "☁️ Cloud-native solutions",
+    "📱 Mobile-first design"
+  ],
+  
+  lifePhilosophy: "Code with purpose, learn with passion, build with impact! ✨"
 };
 ```
 
