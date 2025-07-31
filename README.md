@@ -128,9 +128,9 @@ My passion is to become a complete end-to-end developer who can handle every asp
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumon-ray&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
+
   ![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=sumon-ray&theme=tokyonight)
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumon-ray&theme=tokyo-night" alt="GitHub Activity Graph"/>
