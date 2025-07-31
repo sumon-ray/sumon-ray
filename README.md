@@ -129,7 +129,7 @@ My passion is to become a complete end-to-end developer who can handle every asp
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumon-ray&theme=tokyonight" alt="GitHub Streak"/>
+ ![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=sumon-ray&theme=tokyonight)
 </div>
 
 <div align="center">
