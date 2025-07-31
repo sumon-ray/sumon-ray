@@ -129,9 +129,7 @@ My passion is to become a complete end-to-end developer who can handle every asp
 </div>
 
 
-<div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=sumon-ray&theme=tokyonight)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sumon-ray)](https://git.io/streak-stats)
 
 
 <div align="center">
