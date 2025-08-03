@@ -83,12 +83,12 @@ My passion is to become a complete end-to-end developer who can handle every asp
 <div align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+   <img src="https://img.shields.io/badge/ShadCN-DD6B20?style=for-the-badge&logo=radixui&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-   <img src="https://img.shields.io/badge/ShadCN-DD6B20?style=for-the-badge&logo=radixui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer--Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+
 </div>
 
 </td>
