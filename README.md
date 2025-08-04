@@ -135,7 +135,6 @@ My passion is to become a complete end-to-end developer who can handle every asp
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumon-ray&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
----
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumon-ray&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </div>
